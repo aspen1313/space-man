@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-man.Plugins", "space-man.Plugins.csproj", "{9DA3F75D-AC65-CE18-4744-E85E5A107236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-man.Editor.Plugins", "space-man.Editor.Plugins.csproj", "{9AD6EFBD-F678-0F9C-A744-417B9FE0EC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA3F75D-AC65-CE18-4744-E85E5A107236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA3F75D-AC65-CE18-4744-E85E5A107236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA3F75D-AC65-CE18-4744-E85E5A107236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA3F75D-AC65-CE18-4744-E85E5A107236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD6EFBD-F678-0F9C-A744-417B9FE0EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD6EFBD-F678-0F9C-A744-417B9FE0EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD6EFBD-F678-0F9C-A744-417B9FE0EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD6EFBD-F678-0F9C-A744-417B9FE0EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
